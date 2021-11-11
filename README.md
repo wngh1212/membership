@@ -12,6 +12,14 @@ JavaFx + SeneBuilder + Oracle
 
 데이터를 입력한다
 아이디 : test15 비밀번호 : 1234 현재 데이터베이스에 있는 값
+
+
+![image](https://user-images.githubusercontent.com/88926634/141293333-8d68badf-7f05-4cad-b769-3ea7da952c7d.png)
+
+
+
+
+
 ![image](https://user-images.githubusercontent.com/88926634/141286935-1baf086e-93cf-4973-afdc-e5f9ec769be4.png)
 
 데이터베이스에있는 값을뿌린다
