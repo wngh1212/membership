@@ -21,7 +21,7 @@ JavaFx + SeneBuilder + Oracle
 
 ![image](https://user-images.githubusercontent.com/88926634/141287138-b4fa120b-c064-4f41-b924-60cf16959aa7.png)
 
-회원정보수정도 가능하다 회원정보수정버튼을 누르면 "회원정보 수정완료"라고 뜬다
+회원정보수정도 가능하다 회원정보수정버튼을 누르면 "회원정보가 수정 되었습니다" 라고 뜬다
 ![image](https://user-images.githubusercontent.com/88926634/141287511-cf6d117f-64ca-4973-a402-48143248faa0.png)
 
 창닫기를 누르면 초기화면으로돌아온는데 데이터베이스에있는 값이 아닌 임의의 값을 넣어서 로그인을 누르면
